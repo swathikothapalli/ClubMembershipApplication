@@ -1,0 +1,3 @@
+Cycling Club Membership Console Application
+
+This project is a simple console-based Cycling club membership management application developed using C#. It emphasizes key software development concepts such as object-oriented programming, dependency injection, and event-driven programming through the use of delegates. The application utilizes Microsoft Entity Framework Core with a SQLite database, following the code-first approach for seamless database management. It demonstrates modern development practices like abstraction, modular design, and loose coupling, resulting in a scalable and maintainable system. The project highlights the importance of clean architecture, where different components interact efficiently while promoting reusability and maintainability.
